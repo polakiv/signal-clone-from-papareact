@@ -1,6 +1,6 @@
-# How to Build a Private Messaging Chat App with React-Native (Signal Clone)
+Отличная копия Сигнала месенджера от Papareact
+https://www.youtube.com/watch?v=MJzmZ9qmdaE&list=LL&index=4
 
-Read the full tutorial here: [**>> How to Build a Private Messaging Chat App with React-Native (Signal Clone)**](https://daltonic.github.io)
 
 This example shows How to Build a Private Messaging Chat App with React-Native (Signal Clone):
 
