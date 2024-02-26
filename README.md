@@ -1,7 +1,7 @@
 Корявая демка на веб, но рабочая. Работает регистрация/авторизация на firebase 
 https://nsk-sites.ru/react-native/Signal.html
 
-Отличная копия Сигнала месенджера от Papareact
+Детская копия Сигнала месенджера от Papareact
 https://www.youtube.com/watch?v=MJzmZ9qmdaE&list=LL&index=4
 
 
